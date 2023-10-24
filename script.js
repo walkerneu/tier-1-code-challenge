@@ -52,6 +52,7 @@ console.log(myScore);
 if (myScore > highScore){
   highScore = myScore
 }
+console.log("Expect highScore to equal 30", highScore);
 
 // DONE!
 
